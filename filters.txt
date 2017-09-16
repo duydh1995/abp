@@ -1,0 +1,4 @@
+[Adblock Plus 2.0]
+##div[id^="popupServer"]
+##div[id^="thewindowbackground"]
+##div[id^="pagelet_ego_pane"]
