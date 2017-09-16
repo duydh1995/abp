@@ -2,3 +2,4 @@
 ##div[id^="popupServer"]
 ##div[id^="thewindowbackground"]
 ##div[id^="pagelet_ego_pane"]
+##div[id^="YoMediaBanner"]
