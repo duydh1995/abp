@@ -3,3 +3,6 @@
 ##div[id^="thewindowbackground"]
 ##div[id^="pagelet_ego_pane"]
 ##div[id^="YoMediaBanner"]
+##iframe[id^="adtimaIFrameWrapper"]
+##div[class*="player-bannerads"]
+##div[id^="adtimapopup-background"]
