@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+||goo.gl/hcE2VW
 ##div[id^="popupServer"]
 ##div[id^="thewindowbackground"]
 ##div[id^="pagelet_ego_pane"]
@@ -6,3 +7,4 @@
 ##iframe[id^="adtimaIFrameWrapper"]
 ##div[class*="player-bannerads"]
 ##div[id^="adtimapopup-background"]
+##div[style="display: block; position: fixed; height: 500px; width: 625px; margin: -250px auto 0px -312.5px; left: 50%; top: 50%; z-index: 2147483647; line-height: 1;"]
